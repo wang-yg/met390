@@ -16,6 +16,8 @@ from matplotlib.cm import ScalarMappable
 import os
 import re
 
+# This is for demo only
+
 # Ensure the "caesar_skewts" directory exists
 output_dir = "caesar_skewts"
 if not os.path.exists(output_dir):
